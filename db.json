@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "paquito",
+      "email": "paquitotero@hotmail.com",
+      "password": "zaq12wsx"
+    }
+  ],
+  "corporal": [
+    {
+      "id": 1,
+      "SKU": "SKU",
+      "qty": 100,
+    }
+  ],
+  "facial": [
+    {
+      "id": 1,
+      "SKU": "SKU",
+      "qty": 100,
+    }
+  ]
+}
