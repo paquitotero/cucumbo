@@ -1,5 +1,4 @@
 * {
-  background-color: #dfeedb;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -7,19 +6,24 @@
 img {
   margin: 100px 400px;
 }
+.menu {
+  background-color: #dfeedb;
+  height: 100px;
+}
 .menu li {
   display: inline-block;
+}
+.menu a {
   text-decoration: none;
+}
+.menu a:hover {
+  text-decoration: underline;
+}
+.menu a:active {
+  color: blue;
 }
 .subMenu {
   display: none;
-}
-.subMenu li {
-  text-decoration: none;
-  padding-top: 4px;
-  background-color: black;
-  padding: 10px;
-  margin-top: 0;
 }
 .menu li:hover .subMenu {
     display: block;
