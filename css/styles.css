@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  --footerSize: 50px;
 }
 .backgroundPrimary {
   background-color: #dfeedb;
@@ -19,29 +20,43 @@
   width: -moz-fit-content;
 }
 .menu a {
+  color: #3e3e3c;
+  font-family: 'Lato', sans-serif;
   font-size: 30px;
   text-decoration: none;
-}
-.menu a:hover {
-  text-decoration: underline;
 }
 .menu a:active {
   color: blue;
 }
 .subMenu {
   display: none;
+  list-style-type: none;
+  padding-top: 20px;
+}
+.subMenu:last-of-type {
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
 }
 .menu li:hover .subMenu {
     display: block;
+    position: absolute;
+    background-color: #dfeedb;
 }
 .menu li {
   margin: 0 15px;
 }
 
+
+/***** Main *****/
+main {
+  padding-bottom: var(--footerSize);
+}
+
+
 /***** Slogan *****/
 .slogan h2 {
   font-size: 4em;
-  margin: 2em;
+  margin: 1.5em;
   text-align: center;
 }
 
@@ -74,7 +89,8 @@
 footer {
   background-color: lightgray;
   bottom: 0;
-  height: 50px;
+  height: var(--footerSize);
+  margin-top: 50px;
   position: fixed;
   width: 100%;
 }
