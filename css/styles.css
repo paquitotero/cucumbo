@@ -75,7 +75,6 @@ main {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   margin-top: 3%;
-  width: 100%;
 }
 .productsGrid img {
   margin: 25px;
@@ -91,6 +90,7 @@ main {
 .products {
   padding-top: 20px;
   text-align: center;
+  width: 100%;
 }
 
 
