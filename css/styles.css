@@ -22,7 +22,8 @@
 .menu a {
   color: #3e3e3c;
   font-family: 'Lato', sans-serif;
-  font-size: 30px;
+  font-size: 20px;
+  padding: 0 20px;
   text-decoration: none;
 }
 .menu a:active {
@@ -32,6 +33,13 @@
   display: none;
   list-style-type: none;
   padding-top: 20px;
+  width: 145px;
+}
+.subMenu li {
+  padding: 10px;
+}
+.subMenu a {
+  margin-left: -10px;
 }
 .subMenu:last-of-type {
   border-bottom-right-radius: 5px;
@@ -56,7 +64,7 @@ main {
 /***** Slogan *****/
 .slogan h2 {
   font-size: 4em;
-  margin: 1.5em;
+  margin: 1.8em;
   text-align: center;
 }
 
