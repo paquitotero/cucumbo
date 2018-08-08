@@ -2,23 +2,26 @@
   "users": [
     {
       "id": 1,
-      "name": "paquito",
-      "email": "paquitotero@hotmail.com",
+      "username": "fulanita",
+      "name": "fulanita martinez",
+      "email": "fulanita@zd.com",
       "password": "zaq12wsx"
     }
   ],
-  "corporal": [
+  "products": [
     {
       "id": 1,
-      "SKU": "SKU",
+      "SKU": "SKU-1",
       "qty": 100,
+      "price": 0,
+      "category": "corporal"
+    },
+    {
+      "id": 2,
+      "SKU": "SKU-1",
+      "qty": 70,
+      "price": 0,
+      "category": "corporal"
     }
   ],
-  "facial": [
-    {
-      "id": 1,
-      "SKU": "SKU",
-      "qty": 100,
-    }
-  ]
 }

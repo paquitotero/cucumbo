@@ -3,15 +3,20 @@
   margin: 0;
   padding: 0;
 }
-.logo img {
-  margin: 100px 380px;
-}
-.menu {
+.backgroundPrimary {
   background-color: #dfeedb;
-  height: 100px;
 }
-.menu li {
-  display: inline-block;
+/*******  header *********/
+.logo img {
+  margin: 0 auto;
+  display: block;
+}
+.menu > ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 20px 0;
+  width: -moz-fit-content;
 }
 .menu a {
   font-size: 30px;
@@ -29,28 +34,71 @@
 .menu li:hover .subMenu {
     display: block;
 }
-.slogan {
-  height: 800px;
+.menu li {
+  margin: 0 15px;
 }
-.corporal {
-  background-color: #dfeedb;
+
+/***** Slogan *****/
+.slogan h2 {
+  font-size: 4em;
+  margin: 2em;
+  text-align: center;
+}
+
+
+/***** Products *****/
+.productsGrid {
   column-gap: 10px;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   margin-top: 3%
 }
-
-article {
+.productsGrid img {
+  margin: 25px;
+  width: 75%;
+}
+.productsGrid article {
   border: 1px solid black;
   border-radius: 3px;
-  height: 200px;
   margin: 25px 30px;
+  padding-bottom: 25px;
+  text-align: center;
 }
-.corporal img {
+.products {
+  padding-top: 20px;
+  text-align: center;
+}
+
+
+/***** Footer *****/
+footer {
+  background-color: lightgray;
+  bottom: 0;
   height: 50px;
-  text-align: center;
-  width: 50px;
+  position: fixed;
+  width: 100%;
 }
-.corporal h1 {
-  text-align: center;
+footer nav {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+footer li {
+  display: inline-block;
+  margin-right: 10px;
+}
+footer a {
+  color: black;
+  padding: 10px;
+  text-decoration: none;
+}
+footer a:hover,
+.grid a:hover {
+  text-decoration: underline;
+}
+footer a:active {
+  color: blue;
+}
+footer ul:first-of-type {
+  float: right;
+  margin-right: 10px;
 }
