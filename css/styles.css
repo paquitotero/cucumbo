@@ -74,7 +74,8 @@ main {
   column-gap: 10px;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  margin-top: 3%
+  margin-top: 3%;
+  width: 100%;
 }
 .productsGrid img {
   margin: 25px;
