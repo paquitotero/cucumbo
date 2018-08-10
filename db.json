@@ -11,7 +11,7 @@
   "products": [
     {
       "id": 1,
-      "name": "producto de cynthia",
+      "name": "Desodorante Natural",
       "SKU": "SKU-1",
       "qty": 100,
       "price": 100,
@@ -19,7 +19,7 @@
     },
     {
       "id": 2,
-      "name": "producto de nallely",
+      "name": "Desodorante Natural",
       "SKU": "SKU-2",
       "qty": 70,
       "price": 50,
@@ -27,7 +27,7 @@
     },
     {
       "id": 3,
-      "name": "crema",
+      "name": "Desodorante Natural",
       "SKU": "SKU-2",
       "qty": 70,
       "price": 500,
@@ -35,7 +35,7 @@
     },
     {
       "id": 3,
-      "name": "crema",
+      "name": "Desodorante Natural",
       "SKU": "SKU-2",
       "qty": 70,
       "price": 500,
@@ -43,14 +43,14 @@
     },
     {
       "id": 3,
-      "name": "crema",
+      "name": "Desodorante Natural",
       "SKU": "SKU-2",
       "qty": 70,
       "price": 500,
       "category": "maquillaje"
     },{
       "id": 3,
-      "name": "crema",
+      "name": "Desodorante Natural",
       "SKU": "SKU-2",
       "qty": 70,
       "price": 500,
@@ -58,7 +58,7 @@
     },
     {
       "id": 3,
-      "name": "crema",
+      "name": "Desodorante Natural",
       "SKU": "SKU-2",
       "qty": 70,
       "price": 500,

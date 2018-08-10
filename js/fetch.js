@@ -35,7 +35,7 @@ async function renderMisCosas() {
 
     products.forEach((referenciaPorProducto) => { //linea 29
         let newArticle = articleNode.cloneNode(true); //linea 32 y true copia todos los hijos
-        newArticle.children[0].children[0].src = 'img/corporal/AURA01.jpg';
+        newArticle.children[0].children[0].src = 'img/corporal/aura01.jpg';
         newArticle.children[0].children[1].innerText = referenciaPorProducto.name; //los parentesis linea 36
         newArticle.children[0].children[2].innerText = referenciaPorProducto.price;
         contenedorCorporal.appendChild(newArticle);
@@ -55,7 +55,7 @@ async function renderMisCosas2() {
 
     products.forEach((referenciaPorProducto) => { //linea 29
         let newArticle = articleNode.cloneNode(true); //linea 32 y true copia todos los hijos
-        newArticle.children[0].children[0].src = 'img/corporal/AURA01.jpg';
+        newArticle.children[0].children[0].src = 'img/maquillaje/paletas.jpg';
         newArticle.children[0].children[1].innerText = referenciaPorProducto.name; //los parentesis linea 36
         newArticle.children[0].children[2].innerText = referenciaPorProducto.price;
         contenedorMaquillaje.appendChild(newArticle);
