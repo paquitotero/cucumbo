@@ -84,9 +84,9 @@ main h3 {
   font-family: 'Italiana', serif;
 }
 .productsGrid {
-  column-gap: 10px;
+  /*column-gap: 10px;*/
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   margin-top: 3%;
 }
 .productsGrid img {
