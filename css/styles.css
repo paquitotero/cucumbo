@@ -53,10 +53,7 @@
 .menu li {
   margin: 0 15px;
 }
-.instagramLogo {
-  float: left;
-  margin-top: -8px;
-}
+
 
 
 
@@ -69,7 +66,7 @@ main {
 /***** Slogan *****/
 .slogan h2 {
   color: #3e3e3c;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Kaushan Script', cursive;
   font-size: 4em;
   margin: 1.8em;
   text-align: center;
@@ -132,4 +129,11 @@ footer a:active {
 footer ul:first-of-type {
   float: right;
   margin-right: 10px;
+}
+footer ul:last-of-type {
+  float: left;
+  margin-left: 10px;
+}
+.socialNetworkLogo {
+  margin-top: -10px;
 }
