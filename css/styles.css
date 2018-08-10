@@ -53,6 +53,11 @@
 .menu li {
   margin: 0 15px;
 }
+.instagramLogo {
+  float: left;
+  margin-top: -8px;
+}
+
 
 
 /***** Main *****/

@@ -23,7 +23,46 @@
       "SKU": "SKU-2",
       "qty": 70,
       "price": 50,
-      "category": "corporal"
+      "category": "maquillaje"
+    },
+    {
+      "id": 3,
+      "name": "crema",
+      "SKU": "SKU-2",
+      "qty": 70,
+      "price": 500,
+      "category": "maquillaje"
+    },
+    {
+      "id": 3,
+      "name": "crema",
+      "SKU": "SKU-2",
+      "qty": 70,
+      "price": 500,
+      "category": "maquillaje"
+    },
+    {
+      "id": 3,
+      "name": "crema",
+      "SKU": "SKU-2",
+      "qty": 70,
+      "price": 500,
+      "category": "maquillaje"
+    },{
+      "id": 3,
+      "name": "crema",
+      "SKU": "SKU-2",
+      "qty": 70,
+      "price": 500,
+      "category": "maquillaje"
+    },
+    {
+      "id": 3,
+      "name": "crema",
+      "SKU": "SKU-2",
+      "qty": 70,
+      "price": 500,
+      "category": "maquillaje"
     }
   ]
 }
