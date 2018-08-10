@@ -13,15 +13,15 @@
       "id": 1,
       "SKU": "SKU-1",
       "qty": 100,
-      "price": 0,
+      "price": 100,
       "category": "corporal"
     },
     {
       "id": 2,
       "SKU": "SKU-1",
       "qty": 70,
-      "price": 0,
+      "price": 50,
       "category": "corporal"
     }
-  ],
+  ]
 }
