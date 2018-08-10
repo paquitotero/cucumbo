@@ -1,11 +1,11 @@
 {
   "users": [
     {
-      "id": 1,
-      "username": "fulanita",
-      "name": "fulanita martinez",
-      "email": "fulanita@zd.com",
-      "password": "zaq12wsx"
+      "id": "",
+      "username": "",
+      "name": "",
+      "email": "",
+      "password": ""
     }
   ],
   "products": [
@@ -20,7 +20,7 @@
     {
       "id": 2,
       "name": "producto de nallely",
-      "SKU": "SKU-1",
+      "SKU": "SKU-2",
       "qty": 70,
       "price": 50,
       "category": "corporal"
