@@ -66,14 +66,23 @@ main {
 /***** Slogan *****/
 .slogan h2 {
   color: #3e3e3c;
-  font-family: 'Kaushan Script', cursive;
-  font-size: 4em;
+  font-family: 'Italiana', serif;
+  font-size: 3.8em;
   margin: 1.8em;
   text-align: center;
 }
 
 
 /***** Products *****/
+main h1 {
+  color: #3e3e3c;
+  font-family: 'Italiana', serif;
+  font-size: 4em;
+}
+main h3 {
+  color: #3e3e3c;
+  font-family: 'Italiana', serif;
+}
 .productsGrid {
   column-gap: 10px;
   display: grid;
@@ -85,7 +94,7 @@ main {
   width: 75%;
 }
 .productsGrid article {
-  border: 1px solid black;
+  border: 1px solid #3e3e3c;
   border-radius: 3px;
   margin: 25px 30px;
   padding-bottom: 25px;
@@ -135,5 +144,5 @@ footer ul:last-of-type {
   margin-left: 10px;
 }
 .socialNetworkLogo {
-  margin-top: -10px;
+  margin-top: -9px;
 }
