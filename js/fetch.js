@@ -1,7 +1,7 @@
 async function getProducts(category){
     // Enviar la informacion al API
     const reqProducts = new Request(
-        'https://my-json-server.typicode.com/paquitotero/cucumbo/?category=' + category, // Cambiar por tu propia API
+        'https://my-json-server.typicode.com/paquitotero/cucumbo/products?category=' + category, // Cambiar por tu propia API
         {
             method: 'GET'
         }
