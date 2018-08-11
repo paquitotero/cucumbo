@@ -9,8 +9,8 @@
 }
 /*******  header *********/
 .logo img {
-  margin: 0 auto;
   display: block;
+  margin: 0 auto;
 }
 .menu > ul {
   display: flex;
@@ -18,7 +18,9 @@
   margin: 0 auto;
   padding: 20px 0;
   width: -moz-fit-content;
+  width: -webkit-fit-content;
 }
+
 .menu a {
   color: #3e3e3c;
   font-family: 'Roboto Condensed', sans-serif;

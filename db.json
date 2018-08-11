@@ -11,65 +11,190 @@
   "products": [
     {
       "id": 1,
-      "name": "Desodorante Natural",
-      "SKU": "SKU-1",
+      "name": "Crema Contorno de Ojos Perfección",
+      "SKU": "COCO08",
+      "size":"20 ml",
       "qty": 100,
       "price": 100,
-      "category": "corporal",
-      "img": "img/corporal/AURA01.jpg"
+      "category": "facial",
+      "subCategory":"ojos",
+      "img": "img/productos/COCO08.jpg"
     },
     {
       "id": 2,
-      "name": "Desodorante Natural",
-      "SKU": "SKU-2",
+      "name": "Polvo Traslúcido Mate",
+      "SKU": "COCO11",
+      "size":"20 gr",
       "qty": 70,
       "price": 50,
       "category": "maquillaje",
-      "img": "img/corporal/AURA01.jpg"
+      "subCategory":"",
+      "img": "img/productos/COCO11.jpg"
     },
     {
       "id": 3,
-      "name": "Desodorante Natural",
-      "SKU": "SKU-2",
+      "name": "Aguacate Crema Facial Nutritiva & Contorno Ojos",
+      "SKU": "XAMA01",
+      "size":"30 ml",
       "qty": 70,
       "price": 500,
-      "category": "maquillaje",
-      "img": "img/corporal/AURA01.jpg"
+      "category": "facial",
+      "subCategory":"ojos",
+      "img": "img/productos/XAMA01.jpg"
     },
     {
-      "id": 3,
-      "name": "Desodorante Natural",
-      "SKU": "SKU-2",
-      "qty": 70,
-      "price": 500,
-      "category": "maquillaje",
-      "img": "img/corporal/AURA01.jpg"
+      "id": 4,
+      "name": "Tea tree oil / astringente & aftershave",
+      "SKU": "XAMA07",
+      "size":"130 ml",
+      "qty": "",
+      "price": "",
+      "category": "facial",
+      "subCategory":"astringente",
+      "img": "img/productos/XAMA07.jpg"
     },
     {
-      "id": 3,
-      "name": "Desodorante Natural",
-      "SKU": "SKU-2",
-      "qty": 70,
-      "price": 500,
-      "category": "maquillaje",
-      "img": "img/corporal/AURA01.jpg"
-    },{
-      "id": 3,
-      "name": "Desodorante Natural",
-      "SKU": "SKU-2",
-      "qty": 70,
-      "price": 500,
-      "category": "maquillaje",
-      "img": "img/corporal/AURA01.jpg"
+      "id": 5,
+      "name": "Aceite de coco-lavanda organico -corporal y capilar",
+      "SKU": "XAMA09",
+      "size":"120 ml",
+      "qty": "",
+      "price": "",
+      "category": "corporal",
+      "subCategory":"aceite",
+      "img": "img/productos/XAMA09.jpg"
     },
     {
-      "id": 3,
-      "name": "Desodorante Natural",
-      "SKU": "SKU-2",
-      "qty": 70,
-      "price": 500,
-      "category": "maquillaje",
-      "img": "img/corporal/AURA01.jpg"
+      "id": 6,
+      "name": "Aceite de coco-mandarina organico -corporal y capilar",
+      "SKU": "XAMA10",
+      "size":"120 ml",
+      "qty": "",
+      "price": "",
+      "category": "corporal",
+      "subCategory":"aceite",
+      "img": "img/productos/XAMA10.jpg"
+    },
+    {
+      "id": ,
+      "name": "",
+      "SKU": "",
+      "size":"",
+      "qty": "",
+      "price": "",
+      "category": "",
+      "subCategory":"",
+      "img": "img/productos/.jpg"
+    },
+    {
+      "id": ,
+      "name": "",
+      "SKU": "",
+      "size":"",
+      "qty": "",
+      "price": "",
+      "category": "",
+      "subCategory":"",
+      "img": "img/productos/.jpg"
+    },
+    {
+      "id": ,
+      "name": "",
+      "SKU": "",
+      "size":"",
+      "qty": "",
+      "price": "",
+      "category": "",
+      "subCategory":"",
+      "img": "img/productos/.jpg"
+    },
+    {
+      "id": ,
+      "name": "",
+      "SKU": "",
+      "size":"",
+      "qty": "",
+      "price": "",
+      "category": "",
+      "subCategory":"",
+      "img": "img/productos/.jpg"
+    },
+    {
+      "id": ,
+      "name": "",
+      "SKU": "",
+      "size":"",
+      "qty": "",
+      "price": "",
+      "category": "",
+      "subCategory":"",
+      "img": "img/productos/.jpg"
+    },
+    {
+      "id": ,
+      "name": "",
+      "SKU": "",
+      "size":"",
+      "qty": "",
+      "price": "",
+      "category": "",
+      "subCategory":"",
+      "img": "img/productos/.jpg"
+    },
+    {
+      "id": ,
+      "name": "",
+      "SKU": "",
+      "size":"",
+      "qty": "",
+      "price": "",
+      "category": "",
+      "subCategory":"",
+      "img": "img/productos/.jpg"
+    },
+    {
+      "id": ,
+      "name": "",
+      "SKU": "",
+      "size":"",
+      "qty": "",
+      "price": "",
+      "category": "",
+      "subCategory":"",
+      "img": "img/productos/.jpg"
+    },
+    {
+      "id": ,
+      "name": "",
+      "SKU": "",
+      "size":"",
+      "qty": "",
+      "price": "",
+      "category": "",
+      "subCategory":"",
+      "img": "img/productos/.jpg"
+    },
+    {
+      "id": ,
+      "name": "",
+      "SKU": "",
+      "size":"",
+      "qty": "",
+      "price": "",
+      "category": "",
+      "subCategory":"",
+      "img": "img/productos/.jpg"
+    },
+    {
+      "id": ,
+      "name": "",
+      "SKU": "",
+      "size":"",
+      "qty": "",
+      "price": "",
+      "category": "",
+      "subCategory":"",
+      "img": "img/productos/.jpg"
     }
   ]
 }
