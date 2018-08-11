@@ -146,3 +146,8 @@ footer ul:last-of-type {
 .socialNetworkLogo {
   margin-top: -9px;
 }
+.fab {
+  font-size: 40px;
+  /*padding-left: 20px;*/
+  margin-left: 10px;
+}
