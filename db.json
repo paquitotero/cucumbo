@@ -45,46 +45,46 @@
     {
       "id": 4,
       "name": "Tea tree oil / astringente & aftershave",
-      "SKU": "XAMA07",
+      "SKU": "XAMA03",
       "size":"130 ml",
       "qty": "",
       "price": "",
       "category": "facial",
       "subCategory":"astringente",
-      "img": "img/productos/XAMA07.jpg"
+      "img": ""
     },
     {
       "id": 5,
       "name": "Aceite de coco-lavanda organico -corporal y capilar",
-      "SKU": "XAMA09",
+      "SKU": "XAMA06",
       "size":"120 ml",
       "qty": "",
-      "price": "",
+      "price": 150.00,
       "category": "corporal",
       "subCategory":"aceite",
-      "img": "img/productos/XAMA15.jpg"
+      "img": "img/productos/XAMA09.jpg"
     },
     {
       "id": 6,
       "name": "Aceite de coco-mandarina organico -corporal y capilar",
-      "SKU": "XAMA10",
+      "SKU": "XAMA07",
       "size":"120 ml",
       "qty": "",
-      "price": "",
+      "price": 150.00,
       "category": "corporal",
       "subCategory":"aceite",
-      "img": "img/productos/XAMA15.jpg"
+      "img": "img/productos/XAMA09.jpg"
     },
     {
-      "id": "",
-      "name": "",
-      "SKU": "",
-      "size":"",
+      "id": 7,
+      "name": "Aceite de de coco-coco organico -corporal y capilar",
+      "SKU": "XAMA08",
+      "size":"120 ml",
       "qty": "",
-      "price": "",
-      "category": "",
-      "subCategory":"",
-      "img": "img/productos/XAMA15.jpg"
+      "price": 150.00,
+      "category": "corporal",
+      "subCategory":"aceite",
+      "img": "img/productos/XAMA09.jpg"
     },
     {
       "id": "",
