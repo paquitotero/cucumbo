@@ -15,7 +15,8 @@
       "SKU": "SKU-1",
       "qty": 100,
       "price": 100,
-      "category": "corporal"
+      "category": "corporal",
+      "img": "img/corporal/AURA01.jpg"
     },
     {
       "id": 2,
