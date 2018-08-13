@@ -97,7 +97,7 @@ main h3 {
   width: 75%;
 }
 .productsGrid article {
-  border: 3px solid #3e3e3c;
+  /*border: 3px solid #3e3e3c;*/
   border-radius: 5px;
   margin: 25px 30px;
   padding-bottom: 25px;
